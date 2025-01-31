@@ -18,15 +18,14 @@
    ```bash
    npm install
 
-3. Run postman collection tests with newman:
-
-   ```bash
-   npm run test_postman_collection
-
-4. Install webdriver-manager:
+3. Install webdriver-manager:
 
     ```bash
     pip3 install webdriver-manager
+4. Run postman collection tests with newman:
+
+   ```bash
+   npm run test_postman_collection   
 
 **Reports**
 
